@@ -1,2 +1,4 @@
 (sym_lib_table
+  (lib (name Memekeeb-feather-rescue)(type Legacy)(uri "${KIPRJMOD}/Memekeeb feather-rescue.lib")(options "")(descr ""))
+  (lib (name PRKL30-rescue)(type Legacy)(uri ${KIPRJMOD}/PRKL30-rescue.lib)(options "")(descr ""))
 )
