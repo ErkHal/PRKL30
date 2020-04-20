@@ -15,7 +15,7 @@ Designed by:
 ## Specs
 
 - 30%, ultra-portable layout
-- Powered by QMK Firmware
+- Powered by QMK Firmware -> [QMK repo folder](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/prkl30)
 - Cherry MX, Alps and Choc switch support
 - Works with a Pro Micro or Adafruit Feather for bluetooth
 - Supports one rotary encoder
