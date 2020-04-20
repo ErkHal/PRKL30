@@ -22,9 +22,11 @@ Designed by:
 
 ## Making it
 
-### PCB
+## PCB
 "gerber" folder has the files needed for PCB orders, you can just sent the ZIP file.  
 
-### Case & Plate
+## Case & Plate
 "KLE" folder has layout files that you can use to order plates and make KLE layout pictures for keymap readmes.  
 You can use the kle_raw.txt data to create plate files with [ai03 plate generator](https://kbplate.ai03.me/) or [swillkb plate generator](http://builder.swillkb.com/)
+
+There are a few different acrylic case designs [in this repo](https://github.com/TooniSkyy/prkl30-case)
