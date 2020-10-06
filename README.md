@@ -7,8 +7,8 @@
 for the Finnish mechanical keyboard community
 
 Designed by:  
-- Ergorius
-- Tooni Skyy
+- Ergorius (AKA [ErkHal](https://github.com/ErkHal))
+- Tooni Skyy ([TooniSkyy on Github](https://github.com/TooniSkyy))
 - Migiii
 - Ortho-leaning
 
