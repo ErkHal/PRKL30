@@ -4,7 +4,7 @@
 
 ## About
 30% Custom mechanical keyboard designed  
-for the Finnish mechanical keyboard community
+for the Finnish Mechanical Keyboard Community
 
 Designed by:  
 - Ergorius (AKA [ErkHal](https://github.com/ErkHal))
@@ -20,10 +20,10 @@ Designed by:
 - Works with a Pro Micro or Adafruit Feather for bluetooth
 - Supports one rotary encoder
 
-## Making it
+## Making it yourself
 
 ## PCB
-"gerber" folder has the files needed for PCB orders, you can just sent the ZIP file.  
+"gerber" folder has the files needed for PCB orders, you can just send the ZIP file to the manufacturer of your choice.  
 
 ## Case & Plate
 "KLE" folder has layout files that you can use to order plates and make KLE layout pictures for keymap readmes.  
